@@ -5,7 +5,7 @@
    ID ="com.phonegap.example1"
    version="1.0.0">
    
-   <name> app DATOSALUMNOS </name>
+   <name> app1 Datos del alumno </name>
    
    <description> 
       App que muestra los datos del alumno
